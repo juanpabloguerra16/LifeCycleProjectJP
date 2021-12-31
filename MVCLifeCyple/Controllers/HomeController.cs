@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LifeCycleLibrary;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -17,7 +18,9 @@ namespace MVCLifeCyple.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();
+            var people = SimpleDataAccess.LoadPeople();
+
+            return View(people);
         }
 
         public ActionResult Contact()
