@@ -1,6 +1,6 @@
 # Build Status
 - Development Branch: ![Deployment Environment Build Status](
-https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=master "Deployment Environment")
+https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=main "Deployment Environment")
 - Staging Branch: ![Staging Environment Build Status](
 https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging "Staging Environment")
 - Production Branch: ![Production Environment Build Status](
