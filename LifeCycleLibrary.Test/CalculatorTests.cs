@@ -11,6 +11,7 @@ namespace LifeCycleLibrary.Test
     {
         [Theory]
         [InlineData(4, 2, 2)]
+        [InlineData(4, 0, 0)]
         public void Divide_SimpleValuesShouldCalculate(double x, double y, double expected)
         {
             // Arrange

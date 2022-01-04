@@ -10,7 +10,9 @@ namespace LifeCycleLibrary
     {
         public static double Divide(double x, double y)
         {
-            return x / y;
+            double output = 0;
+            if(y!=0) return output=x/y;
+            return output;
         }
     }
 }
