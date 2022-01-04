@@ -6,7 +6,6 @@ https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCyclePr
 - Production Branch: ![Production Environment Build Status](
 https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging "Production Environment")
 
-[![Build status](https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild)](https://dev.azure.com/juguerra/LifeCycleProjectJP/_build/latest?definitionId=15)
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
