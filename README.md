@@ -1,12 +1,21 @@
 # Build Status
-- Development Branch
-https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=master
-- Staging Branch
+- Development Build: ![Deployment Environment Build Status] (
+https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=master "Deployment Environment")
+- Staging Build:
 https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging
-- Production Branch
+- Production Build:
 https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=release
 
 [![Build status](https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild)](https://dev.azure.com/juguerra/LifeCycleProjectJP/_build/latest?definitionId=15)
+
+# Deployment Status
+- Development Environment: ![Development Environment Build Status](
+https://vsrm.dev.azure.com/juguerra/_apis/public/Release/badge/4d045c1a-7537-44c8-833e-5bfc7b6949ab/1/1 "Deployment Environment")
+- Staging Environment: ![Staging Environment Build Status](
+https://vsrm.dev.azure.com/juguerra/_apis/public/Release/badge/4d045c1a-7537-44c8-833e-5bfc7b6949ab/2/2 "Staging Environment")
+- Production Environment: ![Production Environment Build Status](
+https://vsrm.dev.azure.com/juguerra/_apis/public/Release/badge/4d045c1a-7537-44c8-833e-5bfc7b6949ab/3/3 "Production Environment")
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
