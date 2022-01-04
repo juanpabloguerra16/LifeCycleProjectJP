@@ -1,10 +1,10 @@
 # Build Status
-- Development Branch
-https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=master
-- Staging Branch
-https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging
-- Production Branch
-https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=release
+- Development Branch: ![Deployment Environment Build Status](
+https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=master "Deployment Environment")
+- Staging Branch: ![Staging Environment Build Status](
+https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging "Staging Environment")
+- Production Branch: ![Production Environment Build Status](
+https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild?branchName=staging "Production Environment")
 
 [![Build status](https://dev.azure.com/juguerra/LifeCycleProjectJP/_apis/build/status/LifeCycleProjectBuild)](https://dev.azure.com/juguerra/LifeCycleProjectJP/_build/latest?definitionId=15)
 # Introduction 
